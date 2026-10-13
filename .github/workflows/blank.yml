@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Build step
-        runs: echo "A demo build"background"background: 
+        run: echo "A demo build"background"background: 
    test: 
      runs-on: ubuntu-latest
      steps: 
